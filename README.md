@@ -105,3 +105,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
    $ npm i react-router-dom      --> install react router dom
 
    1. createBrowserRouter
+   2. RouterProvider
