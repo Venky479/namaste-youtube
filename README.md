@@ -32,3 +32,9 @@
    $ npm i react-router-dom      --> install react router dom
    1. createBrowserRouter
    2. RouterProvider
+   
+7. Higher Order component
+   1. A higher-order component is a function that takes a component and returns a new component.
+   2. Whereas a component transforms props into UI, a higher-order component transforms a component into another component.
+
+
